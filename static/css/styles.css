@@ -39,7 +39,7 @@ body {
     overflow: hidden;
     width: 100%;
     max-width: 1600px;
-    background: rgba(30, 18, 40, 0.98);
+    background: linear-gradient(135deg, #311333 0%, #2a0f2c 60%, #d4af37 200%);
     border-radius: 32px;
     box-shadow: 0 12px 48px 0 rgba(44, 19, 60, 0.25), 0 1.5px 8px 0 rgba(212, 175, 55, 0.08);
     padding: 60px 60px 40px 60px;
